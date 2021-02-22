@@ -1,4 +1,4 @@
-package com.test;
+package mx.calculator;
 
 import android.os.Bundle;
 

@@ -1,9 +1,9 @@
 {
-  "name": "test",
-  "displayName": "test",
+  "name": "CalculatorApp",
+  "displayName": "CalculatorApp",
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "CalculatorApp",
+    "slug": "CalculatorApp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
